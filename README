@@ -1,15 +1,86 @@
-CATEGORIA A
-A1
-A2
-A3
+# Dashboard Analítico com Flask, Celery e RabbitMQ
 
-CATEGORIA B
-B1
-B3
-B4
+Este projeto é um **Dashboard Analítico** desenvolvido em Flask, com integração de **Celery** para execução periódica de tarefas e **RabbitMQ** como broker. Além disso, o projeto possui funcionalidades de análise de vendas, métricas financeiras e geração de relatórios em PDF.
 
-CATEGORIA C
-C2
+## Tecnologias
 
-libs extras:
-reportlab para pdf
+- Python 3.11  
+- Flask  
+- SQLAlchemy  
+- Celery  
+- RabbitMQ  
+- Docker / Docker Compose  
+- Pandas e ReportLab (para relatórios PDF)
+
+## Funcionalidades
+
+### 1️⃣ Dashboard Analytics
+
+#### Categoria A – Margem de lucro [A1], comparações de metas [A2] e tendências de crescimento [A3]
+
+- **`margem_lucro(data_inicio, data_fim)`**: Calcula margem de lucro por categoria (`vendas - custos`) no período.  
+- **`comparar_metas(data_inicio, data_fim)`**: Compara vendas reais com metas por categoria e região, retornando percentual atingido.  
+- **`tendencia_mensal(data_inicio, data_fim)`**: Retorna crescimento percentual mês a mês das vendas.
+
+Rotas correspondentes:
+
+- `GET /data/margem-lucro` – Retorna margem de lucro do período.  
+- `GET /data/metas` – Retorna comparativo de vendas com metas.  
+- `GET /data/tendencias` – Retorna tendência de crescimento mensal.
+
+#### Categoria B – Métricas por vendedor [B1], funil de vendas [B2] e comparativo entre meses [B4]
+
+- **`vendas_por_vendedor(data_inicio, data_fim)`**: Total de vendas por vendedor.  
+- **`funil_vendas_categoria(data_inicio, data_fim)`**: Dados de vendas estilo funil: visitas, orçamentos e vendas por categoria.  
+- **`vendas_meses(meses)`**: Comparativo de vendas por meses selecionados, retornando datasets para gráficos.
+
+Rotas correspondentes:
+
+- `GET /data/vendas-vendedor` – Desempenho de vendedores.  
+- `GET /data/funil-categoria` – Dados de funil de vendas.  
+- `GET /data/vendas-meses` – Comparativo de vendas por meses.
+
+### 2️⃣ Relatórios Analíticos (PDF e JSON) [C2]
+
+- **`RelatorioService.gerar_relatorio(filtros)`**: Gera relatórios com base em filtros (`tipoRelatorio`, `dataInicio`, `dataFim`, `exportarPDF`). Suporta tipos: vendas, custos, metas, cotações e uploads.  
+- **`_executar_query(tipo, data_inicio, data_fim)`**: Consulta ORM e retorna Pandas DataFrame.  
+- **`_gerar_pdf(df, tipo, data_inicio, data_fim)`**: Gera PDF com o DataFrame e retorna via `send_file`.
+
+Rotas correspondentes:
+
+- `GET /relatorios/` – Página inicial dos relatórios.  
+- `POST /relatorios/gerar` – Gera relatório em JSON ou PDF.
+
+### 3️⃣ Cotação de moedas com Celery [C3]
+
+- **`atualizar_cotacoes()`** – Task periódica do Celery que atualiza cotações via `DataCollector.coletar_cotacoes()`.  
+- Executada **a cada 1 minuto** usando Celery Beat.  
+
+## Mudanças na estrutura original:
+
+Eu alterei o menu, fiz no formato lateral e o separei em layout para ser incluido no html. 
+
+## Como Rodar a Aplicação
+
+### 1. Pré-requisitos
+
+- Docker e Docker Compose  
+- Git  
+
+### 2. Clonar o projeto
+
+```bash
+git clone <url-do-repositorio>
+cd sbm_entrevista_python
+```
+
+# Build e start dos containers:
+```bash
+docker-compose up --build
+```
+
+## Dificuldades
+
+Tive maior dificuldade na configuração do Celery + Rabbit, após conteinerizar a aplicação, justamente por erros de permissões no Windows, e também erros de importação modular voltadas ao Celery em celery_app.py
+
+Outra dificuldade foi em gerar certos gráficos e tabelas com Chart.js, pelo fato de eu não estar muito familiarizado, mas de resto em relação ao Python e Flask para rotas API e Services, não tive problemas.
