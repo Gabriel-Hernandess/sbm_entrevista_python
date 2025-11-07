@@ -1,0 +1,27 @@
+.endpoint-card {
+  margin-bottom: 1rem;
+  border-left: 4px solid #0d6efd;
+  background-color: #fff;
+}
+
+.endpoint-method {
+  font-weight: bold;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.3rem;
+  color: #fff;
+  margin-right: 0.5rem;
+}
+
+.GET { background-color: #198754; }
+.POST { background-color: #0d6efd; }
+
+.section-title {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+code {
+  background-color: #e9ecef;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.2rem;
+}

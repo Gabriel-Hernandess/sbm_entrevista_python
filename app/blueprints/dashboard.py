@@ -14,6 +14,12 @@ def index():
     return render_template('dashboard/index.html')
 
 
+@dashboard_bp.route('/endpoints')
+def endpoints():
+    """Página que retorna os endpoints da aplicação"""
+    return render_template('dashboard/endpoints.html')
+
+
 @dashboard_bp.route('/data/kpis')
 def get_kpis():
     """

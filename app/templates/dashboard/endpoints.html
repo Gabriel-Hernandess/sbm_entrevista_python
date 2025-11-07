@@ -1,0 +1,84 @@
+{% extends "layouts/base.html" %}
+
+{% block title %}API - Endpoints{% endblock title %}
+
+{% block extra_head %}
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/endpoints.css') }}">
+{% endblock extra_head %}
+
+{% block content %}
+<div class="container">
+    <h1 class="mb-4">Documentação de API - Dashboard Analítico</h1>
+
+    <!-- Dashboard Analytics -->
+    <h2 class="section-title">Dashboard Analytics</h2>
+
+    <!-- Categoria A -->
+    <h4>Categoria A – Métricas por Categoria</h4>
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/data/margem-lucro</code>
+        <p>Retorna margem de lucro por categoria.</p>
+        <p>Query Params: <code>data_inicio</code>, <code>data_fim</code></p>
+    </div>
+
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/data/metas</code>
+        <p>Compara vendas reais com metas por categoria e região.</p>
+        <p>Query Params: <code>data_inicio</code>, <code>data_fim</code></p>
+    </div>
+
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/data/tendencias</code>
+        <p>Retorna crescimento percentual mês a mês das vendas.</p>
+        <p>Query Params: <code>data_inicio</code>, <code>data_fim</code></p>
+    </div>
+
+    <!-- Categoria B -->
+    <h4>Categoria B – Métricas por Vendedor e Funil</h4>
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/data/vendas-vendedor</code>
+        <p>Retorna total de vendas por vendedor.</p>
+        <p>Query Params: <code>data_inicio</code>, <code>data_fim</code></p>
+    </div>
+
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/data/funil-categoria</code>
+        <p>Dados de vendas estilo funil (visitas, orçamentos, vendas por categoria).</p>
+        <p>Query Params: <code>data_inicio</code>, <code>data_fim</code></p>
+    </div>
+
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/data/vendas-meses</code>
+        <p>Comparativo de vendas por meses selecionados.</p>
+        <p>Query Params: <code>meses</code> (ex: 2025-01,2025-02)</p>
+    </div>
+
+    <!-- Relatórios -->
+    <h2 class="section-title">Relatórios Analíticos</h2>
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method GET">GET</span> <code>/relatorios/</code>
+        <p>Acessa página de relatórios no frontend.</p>
+    </div>
+
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method POST">POST</span> <code>/relatorios/gerar</code>
+        <p>Gera relatórios com filtros e retorna PDF ou JSON.</p>
+        <p>Body JSON:</p>
+        <ul>
+        <li>tipoRelatorio: "vendas", "custos", "metas", "cotacoes", "uploads"</li>
+        <li>dataInicio: "YYYY-MM-DD"</li>
+        <li>dataFim: "YYYY-MM-DD"</li>
+        <li>exportarPDF: true/false</li>
+        </ul>
+    </div>
+
+    <!-- Cotação de moedas -->
+    <h2 class="section-title">Cotação de Moedas (Celery)</h2>
+    <div class="card endpoint-card p-3">
+        <span class="endpoint-method POST">POST</span> <code>/cotacoes/atualizar</code>
+        <p>Atualiza cotações via API externa.</p>
+        <p>Executada automaticamente a cada 1 minuto via Celery Beat.</p>
+    </div>
+</div>
+{% endblock content %}
