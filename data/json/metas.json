@@ -4,1263 +4,1383 @@
     "mes": 1,
     "categoria": "Eletrônicos",
     "regiao": "Norte",
-    "meta_valor": 91655,
-    "meta_quantidade": 191
+    "meta_valor": 88140,
+    "meta_quantidade": 152
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Eletrônicos",
     "regiao": "Sul",
-    "meta_valor": 83984,
-    "meta_quantidade": 185
+    "meta_valor": 87360,
+    "meta_quantidade": 317
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Eletrônicos",
     "regiao": "Leste",
-    "meta_valor": 82695,
-    "meta_quantidade": 251
+    "meta_valor": 78964,
+    "meta_quantidade": 136
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Eletrônicos",
     "regiao": "Oeste",
-    "meta_valor": 58703,
-    "meta_quantidade": 224
+    "meta_valor": 54655,
+    "meta_quantidade": 461
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Eletrônicos",
     "regiao": "Centro",
-    "meta_valor": 62690,
-    "meta_quantidade": 284
+    "meta_valor": 92723,
+    "meta_quantidade": 356
   },
   {
     "ano": 2024,
     "mes": 1,
-    "categoria": "Alimentos",
+    "categoria": "Livros",
     "regiao": "Norte",
-    "meta_valor": 15682,
-    "meta_quantidade": 452
+    "meta_valor": 29755,
+    "meta_quantidade": 381
   },
   {
     "ano": 2024,
     "mes": 1,
-    "categoria": "Alimentos",
+    "categoria": "Livros",
     "regiao": "Sul",
-    "meta_valor": 17733,
-    "meta_quantidade": 186
+    "meta_valor": 24303,
+    "meta_quantidade": 248
   },
   {
     "ano": 2024,
     "mes": 1,
-    "categoria": "Alimentos",
+    "categoria": "Livros",
     "regiao": "Leste",
-    "meta_valor": 25530,
-    "meta_quantidade": 186
+    "meta_valor": 22602,
+    "meta_quantidade": 461
   },
   {
     "ano": 2024,
     "mes": 1,
-    "categoria": "Alimentos",
+    "categoria": "Livros",
     "regiao": "Oeste",
-    "meta_valor": 25190,
-    "meta_quantidade": 239
+    "meta_valor": 24003,
+    "meta_quantidade": 246
   },
   {
     "ano": 2024,
     "mes": 1,
-    "categoria": "Alimentos",
+    "categoria": "Livros",
     "regiao": "Centro",
-    "meta_valor": 30847,
-    "meta_quantidade": 468
+    "meta_valor": 28800,
+    "meta_quantidade": 249
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Roupas",
     "regiao": "Norte",
-    "meta_valor": 54587,
-    "meta_quantidade": 191
+    "meta_valor": 40979,
+    "meta_quantidade": 136
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Roupas",
     "regiao": "Sul",
-    "meta_valor": 40950,
-    "meta_quantidade": 126
+    "meta_valor": 45528,
+    "meta_quantidade": 295
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Roupas",
     "regiao": "Leste",
-    "meta_valor": 41663,
+    "meta_valor": 30937,
+    "meta_quantidade": 340
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 35551,
     "meta_quantidade": 109
   },
   {
     "ano": 2024,
     "mes": 1,
     "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 50726,
-    "meta_quantidade": 398
+    "regiao": "Centro",
+    "meta_valor": 53702,
+    "meta_quantidade": 138
   },
   {
     "ano": 2024,
     "mes": 1,
-    "categoria": "Roupas",
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 38920,
+    "meta_quantidade": 240
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 46630,
+    "meta_quantidade": 104
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 40191,
+    "meta_quantidade": 175
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 44951,
+    "meta_quantidade": 239
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Casa",
     "regiao": "Centro",
-    "meta_valor": 41525,
+    "meta_valor": 20141,
+    "meta_quantidade": 176
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 27606,
+    "meta_quantidade": 417
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 36516,
+    "meta_quantidade": 237
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 18329,
+    "meta_quantidade": 164
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Alimentos",
+    "regiao": "Oeste",
+    "meta_valor": 24560,
+    "meta_quantidade": 497
+  },
+  {
+    "ano": 2024,
+    "mes": 1,
+    "categoria": "Alimentos",
+    "regiao": "Centro",
+    "meta_valor": 25573,
+    "meta_quantidade": 168
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Eletrônicos",
+    "regiao": "Norte",
+    "meta_valor": 76697,
+    "meta_quantidade": 360
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Eletrônicos",
+    "regiao": "Sul",
+    "meta_valor": 64467,
+    "meta_quantidade": 105
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Eletrônicos",
+    "regiao": "Leste",
+    "meta_valor": 83314,
+    "meta_quantidade": 338
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 81070,
+    "meta_quantidade": 483
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 65516,
+    "meta_quantidade": 338
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 15984,
+    "meta_quantidade": 455
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 26249,
+    "meta_quantidade": 204
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 11943,
+    "meta_quantidade": 251
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 10626,
+    "meta_quantidade": 165
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 25558,
+    "meta_quantidade": 145
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 55047,
+    "meta_quantidade": 466
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 52921,
+    "meta_quantidade": 433
+  },
+  {
+    "ano": 2024,
+    "mes": 2,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 43544,
     "meta_quantidade": 401
   },
   {
     "ano": 2024,
-    "mes": 1,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 23848,
-    "meta_quantidade": 374
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 46913,
-    "meta_quantidade": 253
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 20802,
-    "meta_quantidade": 451
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 46278,
-    "meta_quantidade": 425
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 29093,
-    "meta_quantidade": 133
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 10203,
-    "meta_quantidade": 346
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 17089,
-    "meta_quantidade": 221
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 24598,
-    "meta_quantidade": 428
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 26390,
-    "meta_quantidade": 432
-  },
-  {
-    "ano": 2024,
-    "mes": 1,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 26098,
-    "meta_quantidade": 311
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Eletrônicos",
-    "regiao": "Norte",
-    "meta_valor": 72456,
-    "meta_quantidade": 152
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Eletrônicos",
-    "regiao": "Sul",
-    "meta_valor": 58278,
-    "meta_quantidade": 235
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 81476,
-    "meta_quantidade": 273
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Eletrônicos",
-    "regiao": "Oeste",
-    "meta_valor": 85164,
-    "meta_quantidade": 287
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 53026,
-    "meta_quantidade": 377
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 39008,
-    "meta_quantidade": 223
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 21278,
-    "meta_quantidade": 326
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 18342,
-    "meta_quantidade": 456
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 20501,
-    "meta_quantidade": 212
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 37962,
-    "meta_quantidade": 120
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 47898,
-    "meta_quantidade": 415
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 52157,
-    "meta_quantidade": 462
-  },
-  {
-    "ano": 2024,
-    "mes": 2,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 54289,
-    "meta_quantidade": 474
-  },
-  {
-    "ano": 2024,
     "mes": 2,
     "categoria": "Roupas",
     "regiao": "Oeste",
-    "meta_valor": 53981,
-    "meta_quantidade": 351
+    "meta_valor": 52973,
+    "meta_quantidade": 406
   },
   {
     "ano": 2024,
     "mes": 2,
     "categoria": "Roupas",
     "regiao": "Centro",
-    "meta_valor": 31282,
-    "meta_quantidade": 392
+    "meta_valor": 59817,
+    "meta_quantidade": 332
   },
   {
     "ano": 2024,
     "mes": 2,
     "categoria": "Casa",
     "regiao": "Norte",
-    "meta_valor": 27984,
-    "meta_quantidade": 388
+    "meta_valor": 28091,
+    "meta_quantidade": 177
   },
   {
     "ano": 2024,
     "mes": 2,
     "categoria": "Casa",
     "regiao": "Sul",
-    "meta_valor": 45018,
-    "meta_quantidade": 185
+    "meta_valor": 27794,
+    "meta_quantidade": 297
   },
   {
     "ano": 2024,
     "mes": 2,
     "categoria": "Casa",
     "regiao": "Leste",
-    "meta_valor": 47433,
-    "meta_quantidade": 134
+    "meta_valor": 47328,
+    "meta_quantidade": 413
   },
   {
     "ano": 2024,
     "mes": 2,
     "categoria": "Casa",
     "regiao": "Oeste",
-    "meta_valor": 37598,
-    "meta_quantidade": 375
+    "meta_valor": 43776,
+    "meta_quantidade": 372
   },
   {
     "ano": 2024,
     "mes": 2,
     "categoria": "Casa",
     "regiao": "Centro",
-    "meta_valor": 47529,
-    "meta_quantidade": 425
+    "meta_valor": 33985,
+    "meta_quantidade": 142
   },
   {
     "ano": 2024,
     "mes": 2,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Norte",
-    "meta_valor": 24948,
-    "meta_quantidade": 398
+    "meta_valor": 19725,
+    "meta_quantidade": 403
   },
   {
     "ano": 2024,
     "mes": 2,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Sul",
-    "meta_valor": 22760,
-    "meta_quantidade": 366
+    "meta_valor": 34248,
+    "meta_quantidade": 189
   },
   {
     "ano": 2024,
     "mes": 2,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Leste",
-    "meta_valor": 15736,
-    "meta_quantidade": 309
+    "meta_valor": 24066,
+    "meta_quantidade": 345
   },
   {
     "ano": 2024,
     "mes": 2,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Oeste",
-    "meta_valor": 14532,
-    "meta_quantidade": 114
+    "meta_valor": 36260,
+    "meta_quantidade": 154
   },
   {
     "ano": 2024,
     "mes": 2,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Centro",
-    "meta_valor": 24377,
-    "meta_quantidade": 393
+    "meta_valor": 34596,
+    "meta_quantidade": 222
   },
   {
     "ano": 2024,
     "mes": 3,
     "categoria": "Eletrônicos",
     "regiao": "Norte",
-    "meta_valor": 98924,
-    "meta_quantidade": 307
+    "meta_valor": 78346,
+    "meta_quantidade": 272
   },
   {
     "ano": 2024,
     "mes": 3,
     "categoria": "Eletrônicos",
     "regiao": "Sul",
-    "meta_valor": 97667,
-    "meta_quantidade": 305
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 77883,
-    "meta_quantidade": 395
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Eletrônicos",
-    "regiao": "Oeste",
-    "meta_valor": 82572,
-    "meta_quantidade": 263
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 80558,
-    "meta_quantidade": 122
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 38328,
-    "meta_quantidade": 138
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 37695,
-    "meta_quantidade": 366
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 17487,
-    "meta_quantidade": 337
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 37145,
-    "meta_quantidade": 138
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 22371,
-    "meta_quantidade": 144
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 40762,
-    "meta_quantidade": 132
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 58212,
-    "meta_quantidade": 294
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 41842,
-    "meta_quantidade": 263
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 36661,
-    "meta_quantidade": 315
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Roupas",
-    "regiao": "Centro",
-    "meta_valor": 35098,
-    "meta_quantidade": 329
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 42646,
-    "meta_quantidade": 376
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 20616,
-    "meta_quantidade": 449
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 45791,
-    "meta_quantidade": 489
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 31019,
-    "meta_quantidade": 434
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 20843,
-    "meta_quantidade": 115
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 14037,
-    "meta_quantidade": 199
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 25421,
+    "meta_valor": 58571,
     "meta_quantidade": 486
   },
   {
     "ano": 2024,
     "mes": 3,
-    "categoria": "Livros",
+    "categoria": "Eletrônicos",
     "regiao": "Leste",
-    "meta_valor": 16578,
-    "meta_quantidade": 489
+    "meta_valor": 72044,
+    "meta_quantidade": 351
   },
   {
     "ano": 2024,
     "mes": 3,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 19139,
-    "meta_quantidade": 104
-  },
-  {
-    "ano": 2024,
-    "mes": 3,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 25607,
-    "meta_quantidade": 125
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Eletrônicos",
-    "regiao": "Norte",
-    "meta_valor": 51640,
-    "meta_quantidade": 369
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Eletrônicos",
-    "regiao": "Sul",
-    "meta_valor": 50601,
-    "meta_quantidade": 354
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 57377,
-    "meta_quantidade": 368
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
     "categoria": "Eletrônicos",
     "regiao": "Oeste",
-    "meta_valor": 51748,
-    "meta_quantidade": 319
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 96752,
-    "meta_quantidade": 443
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 39136,
-    "meta_quantidade": 473
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 21749,
-    "meta_quantidade": 490
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 30856,
-    "meta_quantidade": 144
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 33504,
-    "meta_quantidade": 101
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 19578,
-    "meta_quantidade": 470
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 40592,
-    "meta_quantidade": 121
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 47207,
-    "meta_quantidade": 359
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 30057,
-    "meta_quantidade": 500
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 38498,
+    "meta_valor": 96374,
     "meta_quantidade": 227
   },
   {
     "ano": 2024,
-    "mes": 4,
-    "categoria": "Roupas",
+    "mes": 3,
+    "categoria": "Eletrônicos",
     "regiao": "Centro",
-    "meta_valor": 40178,
-    "meta_quantidade": 269
+    "meta_valor": 53823,
+    "meta_quantidade": 238
   },
   {
     "ano": 2024,
-    "mes": 4,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 34859,
-    "meta_quantidade": 134
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 31547,
-    "meta_quantidade": 133
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 39077,
-    "meta_quantidade": 330
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 31570,
-    "meta_quantidade": 301
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 29691,
-    "meta_quantidade": 295
-  },
-  {
-    "ano": 2024,
-    "mes": 4,
+    "mes": 3,
     "categoria": "Livros",
     "regiao": "Norte",
-    "meta_valor": 12452,
-    "meta_quantidade": 233
+    "meta_valor": 29255,
+    "meta_quantidade": 358
   },
   {
     "ano": 2024,
-    "mes": 4,
+    "mes": 3,
     "categoria": "Livros",
     "regiao": "Sul",
-    "meta_valor": 15952,
-    "meta_quantidade": 196
+    "meta_valor": 17161,
+    "meta_quantidade": 155
   },
   {
     "ano": 2024,
-    "mes": 4,
+    "mes": 3,
     "categoria": "Livros",
     "regiao": "Leste",
-    "meta_valor": 24660,
-    "meta_quantidade": 320
+    "meta_valor": 26314,
+    "meta_quantidade": 477
   },
   {
     "ano": 2024,
-    "mes": 4,
+    "mes": 3,
     "categoria": "Livros",
     "regiao": "Oeste",
-    "meta_valor": 10741,
-    "meta_quantidade": 277
+    "meta_valor": 18570,
+    "meta_quantidade": 494
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 15767,
+    "meta_quantidade": 302
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 30343,
+    "meta_quantidade": 436
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 31715,
+    "meta_quantidade": 268
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 32631,
+    "meta_quantidade": 337
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 47959,
+    "meta_quantidade": 135
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 47607,
+    "meta_quantidade": 275
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 20066,
+    "meta_quantidade": 328
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 48792,
+    "meta_quantidade": 159
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 43002,
+    "meta_quantidade": 482
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 32482,
+    "meta_quantidade": 256
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 28361,
+    "meta_quantidade": 118
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 17136,
+    "meta_quantidade": 361
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 29224,
+    "meta_quantidade": 420
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 26229,
+    "meta_quantidade": 159
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Alimentos",
+    "regiao": "Oeste",
+    "meta_valor": 21630,
+    "meta_quantidade": 384
+  },
+  {
+    "ano": 2024,
+    "mes": 3,
+    "categoria": "Alimentos",
+    "regiao": "Centro",
+    "meta_valor": 19688,
+    "meta_quantidade": 283
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Eletrônicos",
+    "regiao": "Norte",
+    "meta_valor": 56482,
+    "meta_quantidade": 209
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Eletrônicos",
+    "regiao": "Sul",
+    "meta_valor": 59295,
+    "meta_quantidade": 191
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Eletrônicos",
+    "regiao": "Leste",
+    "meta_valor": 68841,
+    "meta_quantidade": 469
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 77465,
+    "meta_quantidade": 281
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 85074,
+    "meta_quantidade": 100
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 17156,
+    "meta_quantidade": 313
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 12470,
+    "meta_quantidade": 438
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 15418,
+    "meta_quantidade": 381
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 28409,
+    "meta_quantidade": 447
   },
   {
     "ano": 2024,
     "mes": 4,
     "categoria": "Livros",
     "regiao": "Centro",
-    "meta_valor": 13837,
-    "meta_quantidade": 181
+    "meta_valor": 13840,
+    "meta_quantidade": 340
   },
   {
     "ano": 2024,
-    "mes": 5,
-    "categoria": "Eletrônicos",
+    "mes": 4,
+    "categoria": "Roupas",
     "regiao": "Norte",
-    "meta_valor": 54197,
-    "meta_quantidade": 449
+    "meta_valor": 53374,
+    "meta_quantidade": 271
   },
   {
     "ano": 2024,
-    "mes": 5,
-    "categoria": "Eletrônicos",
+    "mes": 4,
+    "categoria": "Roupas",
     "regiao": "Sul",
-    "meta_valor": 64668,
-    "meta_quantidade": 365
+    "meta_valor": 59056,
+    "meta_quantidade": 275
   },
   {
     "ano": 2024,
-    "mes": 5,
-    "categoria": "Eletrônicos",
+    "mes": 4,
+    "categoria": "Roupas",
     "regiao": "Leste",
-    "meta_valor": 66832,
-    "meta_quantidade": 320
+    "meta_valor": 59842,
+    "meta_quantidade": 395
   },
   {
     "ano": 2024,
-    "mes": 5,
-    "categoria": "Eletrônicos",
+    "mes": 4,
+    "categoria": "Roupas",
     "regiao": "Oeste",
-    "meta_valor": 97860,
-    "meta_quantidade": 479
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 94758,
-    "meta_quantidade": 479
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 19022,
-    "meta_quantidade": 277
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 25517,
-    "meta_quantidade": 394
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 29082,
-    "meta_quantidade": 168
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 38751,
-    "meta_quantidade": 366
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 26306,
-    "meta_quantidade": 416
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 41166,
-    "meta_quantidade": 329
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 39424,
-    "meta_quantidade": 149
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 31948,
+    "meta_valor": 53201,
     "meta_quantidade": 272
   },
   {
     "ano": 2024,
+    "mes": 4,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 30229,
+    "meta_quantidade": 215
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 27916,
+    "meta_quantidade": 403
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 38233,
+    "meta_quantidade": 249
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 28606,
+    "meta_quantidade": 259
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 40611,
+    "meta_quantidade": 206
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 22032,
+    "meta_quantidade": 479
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 22593,
+    "meta_quantidade": 386
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 38158,
+    "meta_quantidade": 255
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 23406,
+    "meta_quantidade": 297
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Alimentos",
+    "regiao": "Oeste",
+    "meta_valor": 16210,
+    "meta_quantidade": 464
+  },
+  {
+    "ano": 2024,
+    "mes": 4,
+    "categoria": "Alimentos",
+    "regiao": "Centro",
+    "meta_valor": 25261,
+    "meta_quantidade": 478
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Eletrônicos",
+    "regiao": "Norte",
+    "meta_valor": 68091,
+    "meta_quantidade": 132
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Eletrônicos",
+    "regiao": "Sul",
+    "meta_valor": 93704,
+    "meta_quantidade": 457
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Eletrônicos",
+    "regiao": "Leste",
+    "meta_valor": 89757,
+    "meta_quantidade": 162
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 95459,
+    "meta_quantidade": 381
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 94252,
+    "meta_quantidade": 195
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 16476,
+    "meta_quantidade": 220
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 27121,
+    "meta_quantidade": 354
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 27759,
+    "meta_quantidade": 177
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 27443,
+    "meta_quantidade": 297
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 21483,
+    "meta_quantidade": 192
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 50293,
+    "meta_quantidade": 260
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 42415,
+    "meta_quantidade": 425
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 41842,
+    "meta_quantidade": 439
+  },
+  {
+    "ano": 2024,
     "mes": 5,
     "categoria": "Roupas",
     "regiao": "Oeste",
-    "meta_valor": 47774,
-    "meta_quantidade": 327
+    "meta_valor": 43312,
+    "meta_quantidade": 287
   },
   {
     "ano": 2024,
     "mes": 5,
     "categoria": "Roupas",
     "regiao": "Centro",
-    "meta_valor": 39256,
-    "meta_quantidade": 250
+    "meta_valor": 44442,
+    "meta_quantidade": 420
   },
   {
     "ano": 2024,
     "mes": 5,
     "categoria": "Casa",
     "regiao": "Norte",
-    "meta_valor": 47677,
-    "meta_quantidade": 163
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 34386,
-    "meta_quantidade": 258
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 37589,
+    "meta_valor": 25025,
     "meta_quantidade": 216
   },
   {
     "ano": 2024,
     "mes": 5,
     "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 40183,
+    "meta_quantidade": 368
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 23421,
+    "meta_quantidade": 371
+  },
+  {
+    "ano": 2024,
+    "mes": 5,
+    "categoria": "Casa",
     "regiao": "Oeste",
-    "meta_valor": 44755,
-    "meta_quantidade": 126
+    "meta_valor": 31362,
+    "meta_quantidade": 366
   },
   {
     "ano": 2024,
     "mes": 5,
     "categoria": "Casa",
     "regiao": "Centro",
-    "meta_valor": 42306,
-    "meta_quantidade": 227
+    "meta_valor": 46143,
+    "meta_quantidade": 296
   },
   {
     "ano": 2024,
     "mes": 5,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 27730,
-    "meta_quantidade": 400
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 22394,
-    "meta_quantidade": 451
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 10280,
-    "meta_quantidade": 231
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 12093,
-    "meta_quantidade": 246
-  },
-  {
-    "ano": 2024,
-    "mes": 5,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 24838,
-    "meta_quantidade": 181
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Eletrônicos",
-    "regiao": "Norte",
-    "meta_valor": 90112,
-    "meta_quantidade": 441
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Eletrônicos",
-    "regiao": "Sul",
-    "meta_valor": 52942,
-    "meta_quantidade": 341
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 90751,
-    "meta_quantidade": 138
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Eletrônicos",
-    "regiao": "Oeste",
-    "meta_valor": 55555,
-    "meta_quantidade": 463
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 96108,
-    "meta_quantidade": 246
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
     "categoria": "Alimentos",
     "regiao": "Norte",
-    "meta_valor": 26752,
-    "meta_quantidade": 364
+    "meta_valor": 24765,
+    "meta_quantidade": 390
   },
   {
     "ano": 2024,
-    "mes": 6,
+    "mes": 5,
     "categoria": "Alimentos",
     "regiao": "Sul",
-    "meta_valor": 23647,
-    "meta_quantidade": 135
+    "meta_valor": 15974,
+    "meta_quantidade": 382
   },
   {
     "ano": 2024,
-    "mes": 6,
+    "mes": 5,
     "categoria": "Alimentos",
     "regiao": "Leste",
-    "meta_valor": 15943,
-    "meta_quantidade": 157
+    "meta_valor": 38060,
+    "meta_quantidade": 105
   },
   {
     "ano": 2024,
-    "mes": 6,
+    "mes": 5,
     "categoria": "Alimentos",
     "regiao": "Oeste",
-    "meta_valor": 29439,
-    "meta_quantidade": 133
+    "meta_valor": 21743,
+    "meta_quantidade": 385
   },
   {
     "ano": 2024,
-    "mes": 6,
+    "mes": 5,
     "categoria": "Alimentos",
     "regiao": "Centro",
-    "meta_valor": 30707,
-    "meta_quantidade": 265
+    "meta_valor": 31312,
+    "meta_quantidade": 314
   },
   {
     "ano": 2024,
     "mes": 6,
-    "categoria": "Roupas",
+    "categoria": "Eletrônicos",
     "regiao": "Norte",
-    "meta_valor": 40407,
-    "meta_quantidade": 146
+    "meta_valor": 68905,
+    "meta_quantidade": 357
   },
   {
     "ano": 2024,
     "mes": 6,
-    "categoria": "Roupas",
+    "categoria": "Eletrônicos",
     "regiao": "Sul",
-    "meta_valor": 35571,
-    "meta_quantidade": 307
+    "meta_valor": 74818,
+    "meta_quantidade": 124
   },
   {
     "ano": 2024,
     "mes": 6,
-    "categoria": "Roupas",
+    "categoria": "Eletrônicos",
     "regiao": "Leste",
-    "meta_valor": 49144,
+    "meta_valor": 95595,
+    "meta_quantidade": 474
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 93213,
+    "meta_quantidade": 169
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 79110,
+    "meta_quantidade": 161
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 18472,
+    "meta_quantidade": 123
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 12321,
+    "meta_quantidade": 348
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 14623,
     "meta_quantidade": 163
   },
   {
     "ano": 2024,
     "mes": 6,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 19805,
+    "meta_quantidade": 245
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 13049,
+    "meta_quantidade": 282
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 48888,
+    "meta_quantidade": 473
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 30953,
+    "meta_quantidade": 342
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 38275,
+    "meta_quantidade": 191
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
     "categoria": "Roupas",
     "regiao": "Oeste",
-    "meta_valor": 32858,
-    "meta_quantidade": 224
+    "meta_valor": 36600,
+    "meta_quantidade": 482
   },
   {
     "ano": 2024,
     "mes": 6,
     "categoria": "Roupas",
     "regiao": "Centro",
-    "meta_valor": 49057,
-    "meta_quantidade": 213
+    "meta_valor": 43670,
+    "meta_quantidade": 372
   },
   {
     "ano": 2024,
     "mes": 6,
     "categoria": "Casa",
     "regiao": "Norte",
-    "meta_valor": 46461,
-    "meta_quantidade": 319
+    "meta_valor": 48293,
+    "meta_quantidade": 480
   },
   {
     "ano": 2024,
     "mes": 6,
     "categoria": "Casa",
     "regiao": "Sul",
-    "meta_valor": 43333,
+    "meta_valor": 35551,
+    "meta_quantidade": 418
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 25943,
+    "meta_quantidade": 408
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 37497,
+    "meta_quantidade": 167
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 49654,
+    "meta_quantidade": 368
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 38958,
+    "meta_quantidade": 392
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 34885,
+    "meta_quantidade": 103
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 33861,
+    "meta_quantidade": 323
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Alimentos",
+    "regiao": "Oeste",
+    "meta_valor": 18265,
+    "meta_quantidade": 416
+  },
+  {
+    "ano": 2024,
+    "mes": 6,
+    "categoria": "Alimentos",
+    "regiao": "Centro",
+    "meta_valor": 18541,
+    "meta_quantidade": 328
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Eletrônicos",
+    "regiao": "Norte",
+    "meta_valor": 73451,
+    "meta_quantidade": 456
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Eletrônicos",
+    "regiao": "Sul",
+    "meta_valor": 51818,
+    "meta_quantidade": 195
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Eletrônicos",
+    "regiao": "Leste",
+    "meta_valor": 86902,
+    "meta_quantidade": 407
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 78516,
+    "meta_quantidade": 109
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 60729,
+    "meta_quantidade": 462
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 24029,
+    "meta_quantidade": 483
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 28918,
+    "meta_quantidade": 209
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 12578,
+    "meta_quantidade": 212
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 14140,
+    "meta_quantidade": 274
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 26860,
+    "meta_quantidade": 132
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 40874,
+    "meta_quantidade": 185
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 46702,
+    "meta_quantidade": 471
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 49323,
+    "meta_quantidade": 465
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 52240,
+    "meta_quantidade": 214
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 43771,
+    "meta_quantidade": 419
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 49127,
+    "meta_quantidade": 299
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 27277,
+    "meta_quantidade": 396
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 45493,
+    "meta_quantidade": 233
+  },
+  {
+    "ano": 2024,
+    "mes": 7,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 47326,
     "meta_quantidade": 200
   },
   {
     "ano": 2024,
-    "mes": 6,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 38815,
-    "meta_quantidade": 272
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 49723,
-    "meta_quantidade": 159
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
+    "mes": 7,
     "categoria": "Casa",
     "regiao": "Centro",
-    "meta_valor": 46848,
-    "meta_quantidade": 478
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 12338,
-    "meta_quantidade": 324
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 14571,
-    "meta_quantidade": 104
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 11168,
-    "meta_quantidade": 126
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 14689,
-    "meta_quantidade": 376
-  },
-  {
-    "ano": 2024,
-    "mes": 6,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 17187,
-    "meta_quantidade": 398
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Eletrônicos",
-    "regiao": "Norte",
-    "meta_valor": 69878,
-    "meta_quantidade": 148
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Eletrônicos",
-    "regiao": "Sul",
-    "meta_valor": 55125,
-    "meta_quantidade": 344
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 59011,
-    "meta_quantidade": 332
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Eletrônicos",
-    "regiao": "Oeste",
-    "meta_valor": 76187,
-    "meta_quantidade": 403
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 98282,
-    "meta_quantidade": 206
+    "meta_valor": 41927,
+    "meta_quantidade": 106
   },
   {
     "ano": 2024,
     "mes": 7,
     "categoria": "Alimentos",
     "regiao": "Norte",
-    "meta_valor": 22486,
-    "meta_quantidade": 145
+    "meta_valor": 25496,
+    "meta_quantidade": 118
   },
   {
     "ano": 2024,
     "mes": 7,
     "categoria": "Alimentos",
     "regiao": "Sul",
-    "meta_valor": 19014,
-    "meta_quantidade": 113
+    "meta_valor": 24597,
+    "meta_quantidade": 222
   },
   {
     "ano": 2024,
     "mes": 7,
     "categoria": "Alimentos",
     "regiao": "Leste",
-    "meta_valor": 16895,
+    "meta_valor": 26198,
     "meta_quantidade": 301
   },
   {
@@ -1268,7 +1388,7 @@
     "mes": 7,
     "categoria": "Alimentos",
     "regiao": "Oeste",
-    "meta_valor": 34809,
+    "meta_valor": 39125,
     "meta_quantidade": 293
   },
   {
@@ -1276,663 +1396,543 @@
     "mes": 7,
     "categoria": "Alimentos",
     "regiao": "Centro",
-    "meta_valor": 31793,
+    "meta_valor": 32427,
+    "meta_quantidade": 298
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Eletrônicos",
+    "regiao": "Norte",
+    "meta_valor": 51393,
     "meta_quantidade": 500
   },
   {
     "ano": 2024,
-    "mes": 7,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 36679,
-    "meta_quantidade": 374
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 37790,
-    "meta_quantidade": 341
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 43150,
-    "meta_quantidade": 187
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 48800,
-    "meta_quantidade": 460
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Roupas",
-    "regiao": "Centro",
-    "meta_valor": 40381,
-    "meta_quantidade": 279
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 38849,
-    "meta_quantidade": 300
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 26614,
-    "meta_quantidade": 265
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 23472,
-    "meta_quantidade": 161
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 47142,
-    "meta_quantidade": 185
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 33195,
-    "meta_quantidade": 222
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 26199,
-    "meta_quantidade": 176
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 22092,
-    "meta_quantidade": 431
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 28157,
-    "meta_quantidade": 470
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 16108,
-    "meta_quantidade": 393
-  },
-  {
-    "ano": 2024,
-    "mes": 7,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 24710,
-    "meta_quantidade": 167
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Eletrônicos",
-    "regiao": "Norte",
-    "meta_valor": 77689,
-    "meta_quantidade": 127
-  },
-  {
-    "ano": 2024,
     "mes": 8,
     "categoria": "Eletrônicos",
     "regiao": "Sul",
-    "meta_valor": 63444,
-    "meta_quantidade": 123
+    "meta_valor": 53796,
+    "meta_quantidade": 476
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Eletrônicos",
     "regiao": "Leste",
-    "meta_valor": 70389,
-    "meta_quantidade": 440
+    "meta_valor": 92798,
+    "meta_quantidade": 371
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Eletrônicos",
     "regiao": "Oeste",
-    "meta_valor": 59866,
-    "meta_quantidade": 427
+    "meta_valor": 59673,
+    "meta_quantidade": 205
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Eletrônicos",
     "regiao": "Centro",
-    "meta_valor": 57317,
-    "meta_quantidade": 171
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 22423,
-    "meta_quantidade": 364
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 31688,
-    "meta_quantidade": 427
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 34919,
-    "meta_quantidade": 380
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 15473,
-    "meta_quantidade": 317
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 28679,
-    "meta_quantidade": 337
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 57802,
-    "meta_quantidade": 212
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 48145,
-    "meta_quantidade": 170
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 39230,
-    "meta_quantidade": 227
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 39618,
-    "meta_quantidade": 221
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Roupas",
-    "regiao": "Centro",
-    "meta_valor": 49935,
-    "meta_quantidade": 108
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 37764,
-    "meta_quantidade": 190
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 35132,
-    "meta_quantidade": 107
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 44602,
-    "meta_quantidade": 460
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 27631,
-    "meta_quantidade": 495
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 48366,
-    "meta_quantidade": 221
+    "meta_valor": 88927,
+    "meta_quantidade": 237
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Livros",
     "regiao": "Norte",
-    "meta_valor": 16580,
+    "meta_valor": 17924,
+    "meta_quantidade": 230
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 14337,
     "meta_quantidade": 346
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 29486,
-    "meta_quantidade": 481
-  },
-  {
-    "ano": 2024,
-    "mes": 8,
-    "categoria": "Livros",
     "regiao": "Leste",
-    "meta_valor": 28062,
-    "meta_quantidade": 280
+    "meta_valor": 15815,
+    "meta_quantidade": 307
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Livros",
     "regiao": "Oeste",
-    "meta_valor": 17924,
-    "meta_quantidade": 328
+    "meta_valor": 17536,
+    "meta_quantidade": 394
   },
   {
     "ano": 2024,
     "mes": 8,
     "categoria": "Livros",
     "regiao": "Centro",
-    "meta_valor": 14819,
-    "meta_quantidade": 439
+    "meta_valor": 18685,
+    "meta_quantidade": 210
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 59556,
+    "meta_quantidade": 173
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 57736,
+    "meta_quantidade": 221
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 59969,
+    "meta_quantidade": 174
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 38627,
+    "meta_quantidade": 451
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 37468,
+    "meta_quantidade": 268
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 48955,
+    "meta_quantidade": 177
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 47227,
+    "meta_quantidade": 205
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 23493,
+    "meta_quantidade": 471
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 31176,
+    "meta_quantidade": 266
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 42783,
+    "meta_quantidade": 291
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 24030,
+    "meta_quantidade": 230
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 17518,
+    "meta_quantidade": 499
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 37892,
+    "meta_quantidade": 215
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Alimentos",
+    "regiao": "Oeste",
+    "meta_valor": 25770,
+    "meta_quantidade": 372
+  },
+  {
+    "ano": 2024,
+    "mes": 8,
+    "categoria": "Alimentos",
+    "regiao": "Centro",
+    "meta_valor": 29871,
+    "meta_quantidade": 388
   },
   {
     "ano": 2024,
     "mes": 9,
     "categoria": "Eletrônicos",
     "regiao": "Norte",
-    "meta_valor": 68571,
+    "meta_valor": 58766,
+    "meta_quantidade": 276
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Eletrônicos",
+    "regiao": "Sul",
+    "meta_valor": 87837,
+    "meta_quantidade": 473
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Eletrônicos",
+    "regiao": "Leste",
+    "meta_valor": 62755,
+    "meta_quantidade": 299
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 82911,
+    "meta_quantidade": 283
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 63380,
+    "meta_quantidade": 118
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 26749,
+    "meta_quantidade": 274
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 13263,
+    "meta_quantidade": 345
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 17142,
     "meta_quantidade": 462
   },
   {
     "ano": 2024,
     "mes": 9,
-    "categoria": "Eletrônicos",
-    "regiao": "Sul",
-    "meta_valor": 92850,
-    "meta_quantidade": 418
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 59033,
-    "meta_quantidade": 154
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Eletrônicos",
+    "categoria": "Livros",
     "regiao": "Oeste",
-    "meta_valor": 51008,
-    "meta_quantidade": 212
+    "meta_valor": 28323,
+    "meta_quantidade": 103
   },
   {
     "ano": 2024,
     "mes": 9,
-    "categoria": "Eletrônicos",
+    "categoria": "Livros",
     "regiao": "Centro",
-    "meta_valor": 85803,
-    "meta_quantidade": 294
+    "meta_valor": 20599,
+    "meta_quantidade": 394
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 34896,
+    "meta_quantidade": 459
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 47185,
+    "meta_quantidade": 377
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 47804,
+    "meta_quantidade": 468
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 45560,
+    "meta_quantidade": 386
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 42630,
+    "meta_quantidade": 310
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 47817,
+    "meta_quantidade": 222
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 44220,
+    "meta_quantidade": 497
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 32266,
+    "meta_quantidade": 438
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 42487,
+    "meta_quantidade": 412
+  },
+  {
+    "ano": 2024,
+    "mes": 9,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 28050,
+    "meta_quantidade": 223
   },
   {
     "ano": 2024,
     "mes": 9,
     "categoria": "Alimentos",
     "regiao": "Norte",
-    "meta_valor": 37548,
-    "meta_quantidade": 325
+    "meta_valor": 39888,
+    "meta_quantidade": 468
   },
   {
     "ano": 2024,
     "mes": 9,
     "categoria": "Alimentos",
     "regiao": "Sul",
-    "meta_valor": 33529,
-    "meta_quantidade": 218
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 31482,
-    "meta_quantidade": 470
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 20308,
+    "meta_valor": 27405,
     "meta_quantidade": 217
   },
   {
     "ano": 2024,
     "mes": 9,
     "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 26654,
-    "meta_quantidade": 144
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 45653,
-    "meta_quantidade": 260
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 34618,
-    "meta_quantidade": 181
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Roupas",
     "regiao": "Leste",
-    "meta_valor": 49468,
-    "meta_quantidade": 155
+    "meta_valor": 33306,
+    "meta_quantidade": 185
   },
   {
     "ano": 2024,
     "mes": 9,
-    "categoria": "Roupas",
+    "categoria": "Alimentos",
     "regiao": "Oeste",
-    "meta_valor": 40187,
-    "meta_quantidade": 500
+    "meta_valor": 32875,
+    "meta_quantidade": 388
   },
   {
     "ano": 2024,
     "mes": 9,
-    "categoria": "Roupas",
+    "categoria": "Alimentos",
     "regiao": "Centro",
-    "meta_valor": 34542,
-    "meta_quantidade": 363
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 37575,
-    "meta_quantidade": 206
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 47063,
-    "meta_quantidade": 413
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 39009,
-    "meta_quantidade": 442
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 22334,
-    "meta_quantidade": 329
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 43352,
-    "meta_quantidade": 370
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 20771,
-    "meta_quantidade": 165
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 21597,
-    "meta_quantidade": 443
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 26503,
-    "meta_quantidade": 113
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 18041,
-    "meta_quantidade": 153
-  },
-  {
-    "ano": 2024,
-    "mes": 9,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 18918,
-    "meta_quantidade": 371
+    "meta_valor": 33967,
+    "meta_quantidade": 301
   },
   {
     "ano": 2024,
     "mes": 10,
     "categoria": "Eletrônicos",
     "regiao": "Norte",
-    "meta_valor": 85566,
-    "meta_quantidade": 290
+    "meta_valor": 58995,
+    "meta_quantidade": 234
   },
   {
     "ano": 2024,
     "mes": 10,
     "categoria": "Eletrônicos",
     "regiao": "Sul",
-    "meta_valor": 90117,
-    "meta_quantidade": 317
+    "meta_valor": 97809,
+    "meta_quantidade": 386
   },
   {
     "ano": 2024,
     "mes": 10,
     "categoria": "Eletrônicos",
     "regiao": "Leste",
-    "meta_valor": 54246,
-    "meta_quantidade": 243
+    "meta_valor": 88869,
+    "meta_quantidade": 172
   },
   {
     "ano": 2024,
     "mes": 10,
     "categoria": "Eletrônicos",
     "regiao": "Oeste",
-    "meta_valor": 60024,
+    "meta_valor": 67766,
+    "meta_quantidade": 347
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 64077,
+    "meta_quantidade": 265
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 22910,
+    "meta_quantidade": 374
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 28401,
     "meta_quantidade": 191
   },
   {
     "ano": 2024,
     "mes": 10,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 75616,
-    "meta_quantidade": 308
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 20776,
-    "meta_quantidade": 389
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 24255,
-    "meta_quantidade": 384
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Alimentos",
+    "categoria": "Livros",
     "regiao": "Leste",
-    "meta_valor": 39161,
+    "meta_valor": 14622,
+    "meta_quantidade": 418
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 26279,
+    "meta_quantidade": 431
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 28064,
+    "meta_quantidade": 160
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 33561,
+    "meta_quantidade": 246
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 55904,
+    "meta_quantidade": 326
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 46460,
+    "meta_quantidade": 109
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 33454,
+    "meta_quantidade": 343
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 32235,
     "meta_quantidade": 143
   },
   {
     "ano": 2024,
     "mes": 10,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 25077,
-    "meta_quantidade": 341
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 22193,
-    "meta_quantidade": 448
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 50254,
-    "meta_quantidade": 217
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 47886,
-    "meta_quantidade": 383
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 58791,
-    "meta_quantidade": 481
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 49859,
-    "meta_quantidade": 458
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Roupas",
-    "regiao": "Centro",
-    "meta_valor": 32361,
-    "meta_quantidade": 232
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
     "categoria": "Casa",
     "regiao": "Norte",
-    "meta_valor": 20115,
-    "meta_quantidade": 164
+    "meta_valor": 20892,
+    "meta_quantidade": 411
   },
   {
     "ano": 2024,
     "mes": 10,
     "categoria": "Casa",
     "regiao": "Sul",
-    "meta_valor": 47440,
+    "meta_valor": 29463,
     "meta_quantidade": 272
   },
   {
@@ -1940,463 +1940,463 @@
     "mes": 10,
     "categoria": "Casa",
     "regiao": "Leste",
-    "meta_valor": 25818,
-    "meta_quantidade": 129
+    "meta_valor": 42581,
+    "meta_quantidade": 428
   },
   {
     "ano": 2024,
     "mes": 10,
     "categoria": "Casa",
     "regiao": "Oeste",
-    "meta_valor": 28943,
+    "meta_valor": 20621,
+    "meta_quantidade": 344
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 22618,
+    "meta_quantidade": 499
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 26704,
+    "meta_quantidade": 419
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 30419,
+    "meta_quantidade": 334
+  },
+  {
+    "ano": 2024,
+    "mes": 10,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 38446,
     "meta_quantidade": 500
   },
   {
     "ano": 2024,
     "mes": 10,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 23496,
-    "meta_quantidade": 352
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 26320,
-    "meta_quantidade": 133
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 14841,
-    "meta_quantidade": 105
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 19175,
-    "meta_quantidade": 160
-  },
-  {
-    "ano": 2024,
-    "mes": 10,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Oeste",
-    "meta_valor": 26136,
-    "meta_quantidade": 295
+    "meta_valor": 19806,
+    "meta_quantidade": 139
   },
   {
     "ano": 2024,
     "mes": 10,
-    "categoria": "Livros",
+    "categoria": "Alimentos",
     "regiao": "Centro",
-    "meta_valor": 20226,
-    "meta_quantidade": 460
+    "meta_valor": 37387,
+    "meta_quantidade": 274
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Eletrônicos",
     "regiao": "Norte",
-    "meta_valor": 70618,
-    "meta_quantidade": 113
+    "meta_valor": 96303,
+    "meta_quantidade": 150
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Eletrônicos",
     "regiao": "Sul",
-    "meta_valor": 56801,
-    "meta_quantidade": 231
+    "meta_valor": 91858,
+    "meta_quantidade": 499
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Eletrônicos",
     "regiao": "Leste",
-    "meta_valor": 63970,
-    "meta_quantidade": 283
+    "meta_valor": 92810,
+    "meta_quantidade": 373
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Eletrônicos",
     "regiao": "Oeste",
-    "meta_valor": 71658,
-    "meta_quantidade": 187
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 82238,
-    "meta_quantidade": 115
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 34333,
-    "meta_quantidade": 280
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 29688,
-    "meta_quantidade": 102
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 37007,
-    "meta_quantidade": 403
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 16843,
-    "meta_quantidade": 223
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 31694,
-    "meta_quantidade": 439
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Roupas",
-    "regiao": "Norte",
-    "meta_valor": 41712,
-    "meta_quantidade": 401
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Roupas",
-    "regiao": "Sul",
-    "meta_valor": 45582,
-    "meta_quantidade": 404
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 41082,
-    "meta_quantidade": 316
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Roupas",
-    "regiao": "Oeste",
-    "meta_valor": 55258,
+    "meta_valor": 58354,
     "meta_quantidade": 262
   },
   {
     "ano": 2024,
     "mes": 11,
-    "categoria": "Roupas",
+    "categoria": "Eletrônicos",
     "regiao": "Centro",
-    "meta_valor": 45762,
-    "meta_quantidade": 288
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 29960,
-    "meta_quantidade": 221
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 24937,
-    "meta_quantidade": 191
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 35895,
-    "meta_quantidade": 219
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 23353,
-    "meta_quantidade": 181
-  },
-  {
-    "ano": 2024,
-    "mes": 11,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 22751,
-    "meta_quantidade": 194
+    "meta_valor": 98130,
+    "meta_quantidade": 307
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Livros",
     "regiao": "Norte",
-    "meta_valor": 24436,
-    "meta_quantidade": 247
+    "meta_valor": 17800,
+    "meta_quantidade": 294
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Livros",
     "regiao": "Sul",
-    "meta_valor": 29843,
-    "meta_quantidade": 173
+    "meta_valor": 24874,
+    "meta_quantidade": 493
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Livros",
     "regiao": "Leste",
-    "meta_valor": 29159,
-    "meta_quantidade": 298
+    "meta_valor": 28710,
+    "meta_quantidade": 256
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Livros",
     "regiao": "Oeste",
-    "meta_valor": 21129,
-    "meta_quantidade": 323
+    "meta_valor": 16543,
+    "meta_quantidade": 305
   },
   {
     "ano": 2024,
     "mes": 11,
     "categoria": "Livros",
     "regiao": "Centro",
-    "meta_valor": 16170,
-    "meta_quantidade": 100
+    "meta_valor": 13326,
+    "meta_quantidade": 196
   },
   {
     "ano": 2024,
-    "mes": 12,
-    "categoria": "Eletrônicos",
-    "regiao": "Norte",
-    "meta_valor": 66587,
-    "meta_quantidade": 184
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Eletrônicos",
-    "regiao": "Sul",
-    "meta_valor": 95778,
-    "meta_quantidade": 354
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Eletrônicos",
-    "regiao": "Leste",
-    "meta_valor": 94327,
-    "meta_quantidade": 134
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Eletrônicos",
-    "regiao": "Oeste",
-    "meta_valor": 85248,
-    "meta_quantidade": 285
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Eletrônicos",
-    "regiao": "Centro",
-    "meta_valor": 99530,
-    "meta_quantidade": 448
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Alimentos",
-    "regiao": "Norte",
-    "meta_valor": 20120,
-    "meta_quantidade": 363
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Alimentos",
-    "regiao": "Sul",
-    "meta_valor": 27407,
-    "meta_quantidade": 496
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Alimentos",
-    "regiao": "Leste",
-    "meta_valor": 30065,
-    "meta_quantidade": 379
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Alimentos",
-    "regiao": "Oeste",
-    "meta_valor": 38353,
-    "meta_quantidade": 363
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Alimentos",
-    "regiao": "Centro",
-    "meta_valor": 15292,
-    "meta_quantidade": 367
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
+    "mes": 11,
     "categoria": "Roupas",
     "regiao": "Norte",
-    "meta_valor": 46542,
-    "meta_quantidade": 492
+    "meta_valor": 40909,
+    "meta_quantidade": 326
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Roupas",
+    "regiao": "Sul",
+    "meta_valor": 47472,
+    "meta_quantidade": 441
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 41479,
+    "meta_quantidade": 413
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 30378,
+    "meta_quantidade": 479
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 56504,
+    "meta_quantidade": 174
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 39684,
+    "meta_quantidade": 187
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 31579,
+    "meta_quantidade": 205
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 21947,
+    "meta_quantidade": 241
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 27335,
+    "meta_quantidade": 325
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 41984,
+    "meta_quantidade": 336
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 32229,
+    "meta_quantidade": 489
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 20760,
+    "meta_quantidade": 152
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 36615,
+    "meta_quantidade": 411
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Alimentos",
+    "regiao": "Oeste",
+    "meta_valor": 38343,
+    "meta_quantidade": 200
+  },
+  {
+    "ano": 2024,
+    "mes": 11,
+    "categoria": "Alimentos",
+    "regiao": "Centro",
+    "meta_valor": 15206,
+    "meta_quantidade": 352
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Eletrônicos",
+    "regiao": "Norte",
+    "meta_valor": 96660,
+    "meta_quantidade": 392
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Eletrônicos",
+    "regiao": "Sul",
+    "meta_valor": 95993,
+    "meta_quantidade": 252
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Eletrônicos",
+    "regiao": "Leste",
+    "meta_valor": 55616,
+    "meta_quantidade": 230
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Eletrônicos",
+    "regiao": "Oeste",
+    "meta_valor": 65803,
+    "meta_quantidade": 117
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Eletrônicos",
+    "regiao": "Centro",
+    "meta_valor": 50746,
+    "meta_quantidade": 483
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Livros",
+    "regiao": "Norte",
+    "meta_valor": 10247,
+    "meta_quantidade": 319
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Livros",
+    "regiao": "Sul",
+    "meta_valor": 13839,
+    "meta_quantidade": 336
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Livros",
+    "regiao": "Leste",
+    "meta_valor": 19077,
+    "meta_quantidade": 345
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Livros",
+    "regiao": "Oeste",
+    "meta_valor": 17346,
+    "meta_quantidade": 312
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Livros",
+    "regiao": "Centro",
+    "meta_valor": 13488,
+    "meta_quantidade": 241
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Roupas",
+    "regiao": "Norte",
+    "meta_valor": 51537,
+    "meta_quantidade": 145
   },
   {
     "ano": 2024,
     "mes": 12,
     "categoria": "Roupas",
     "regiao": "Sul",
-    "meta_valor": 59073,
+    "meta_valor": 36170,
+    "meta_quantidade": 462
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Roupas",
+    "regiao": "Leste",
+    "meta_valor": 47925,
+    "meta_quantidade": 375
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Roupas",
+    "regiao": "Oeste",
+    "meta_valor": 52299,
+    "meta_quantidade": 252
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Roupas",
+    "regiao": "Centro",
+    "meta_valor": 42486,
+    "meta_quantidade": 199
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Casa",
+    "regiao": "Norte",
+    "meta_valor": 41371,
+    "meta_quantidade": 214
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Casa",
+    "regiao": "Sul",
+    "meta_valor": 24421,
+    "meta_quantidade": 377
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Casa",
+    "regiao": "Leste",
+    "meta_valor": 42876,
+    "meta_quantidade": 259
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Casa",
+    "regiao": "Oeste",
+    "meta_valor": 26240,
+    "meta_quantidade": 371
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Casa",
+    "regiao": "Centro",
+    "meta_valor": 33543,
+    "meta_quantidade": 248
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Alimentos",
+    "regiao": "Norte",
+    "meta_valor": 15340,
+    "meta_quantidade": 190
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Alimentos",
+    "regiao": "Sul",
+    "meta_valor": 16532,
+    "meta_quantidade": 280
+  },
+  {
+    "ano": 2024,
+    "mes": 12,
+    "categoria": "Alimentos",
+    "regiao": "Leste",
+    "meta_valor": 25573,
     "meta_quantidade": 251
   },
   {
     "ano": 2024,
     "mes": 12,
-    "categoria": "Roupas",
-    "regiao": "Leste",
-    "meta_valor": 56844,
-    "meta_quantidade": 488
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Roupas",
+    "categoria": "Alimentos",
     "regiao": "Oeste",
-    "meta_valor": 58531,
-    "meta_quantidade": 362
+    "meta_valor": 24783,
+    "meta_quantidade": 444
   },
   {
     "ano": 2024,
     "mes": 12,
-    "categoria": "Roupas",
+    "categoria": "Alimentos",
     "regiao": "Centro",
-    "meta_valor": 51274,
-    "meta_quantidade": 360
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Casa",
-    "regiao": "Norte",
-    "meta_valor": 32555,
-    "meta_quantidade": 451
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Casa",
-    "regiao": "Sul",
-    "meta_valor": 26859,
-    "meta_quantidade": 215
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Casa",
-    "regiao": "Leste",
-    "meta_valor": 35947,
-    "meta_quantidade": 171
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Casa",
-    "regiao": "Oeste",
-    "meta_valor": 30445,
-    "meta_quantidade": 424
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Casa",
-    "regiao": "Centro",
-    "meta_valor": 48068,
-    "meta_quantidade": 330
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Livros",
-    "regiao": "Norte",
-    "meta_valor": 15074,
-    "meta_quantidade": 213
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Livros",
-    "regiao": "Sul",
-    "meta_valor": 18475,
-    "meta_quantidade": 430
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Livros",
-    "regiao": "Leste",
-    "meta_valor": 29219,
-    "meta_quantidade": 482
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Livros",
-    "regiao": "Oeste",
-    "meta_valor": 13733,
-    "meta_quantidade": 273
-  },
-  {
-    "ano": 2024,
-    "mes": 12,
-    "categoria": "Livros",
-    "regiao": "Centro",
-    "meta_valor": 27766,
-    "meta_quantidade": 251
+    "meta_valor": 30376,
+    "meta_quantidade": 334
   }
 ]

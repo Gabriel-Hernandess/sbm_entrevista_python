@@ -1,0 +1,33 @@
+services:
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+
+  flask:
+    build: .
+    container_name: flask_app
+    ports:
+      - "5100:5100"
+    volumes:
+      - .:/app
+    depends_on:
+      - rabbitmq
+    environment:
+      CELERY_BROKER_URL: amqp://guest:guest@rabbitmq:5672//
+      CELERY_RESULT_BACKEND: rpc://
+
+  celery:
+    build: .
+    container_name: celery_worker
+    depends_on:
+      - rabbitmq
+    volumes:
+      - .:/app
+    command: celery -A app.celery_app.celery worker --beat --loglevel=info
+    restart: unless-stopped

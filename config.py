@@ -49,7 +49,7 @@ class Config:
     JSON_DIR = DATA_DIR / 'json'
 
     # Celery
-    CELERY_BROKER_URL = 'amqp://guest:guest@localhost:5672//'
+    CELERY_BROKER_URL = 'amqp://guest:guest@rabbitmq:5672//'
     CELERY_RESULT_BACKEND = 'rpc://'
 
 
@@ -91,4 +91,3 @@ config = {
     'testing': TestingConfig,
     'default': DevelopmentConfig
 }
-
