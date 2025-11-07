@@ -58,7 +58,9 @@ Rotas correspondentes:
 
 ## Mudanças na estrutura original:
 
-Eu alterei o menu, fiz no formato lateral e o separei em layout para ser incluido no html. 
+- Eu alterei o menu do frontend, fiz no formato lateral e o separei em layout para ser incluido no html. 
+- Para as funções de Dashboard eu utilizei os mesmos arquivos, sem alteração na estrutura, apenas incluindo as funções em analytics.py e as rotas em dashboard.py.
+- Para os relatórios, inclui o template relatorios.html na pasta templates, css e js em static, e já para backend separei em novos arquivos seguindo a estrutura, relatorio.py para as rotas em blueprints/ e as funções em data_relatorios.py dentro de services/
 
 ## Como Rodar a Aplicação
 
