@@ -107,6 +107,67 @@
             </div>
         </div>
     </div>
+
+    <!-- Categoria A: Manipulação e Análise de Dados -->
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Margem de Lucro</h5>
+                    <canvas id="chartMargemLucro"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Comparação com Metas</h5>
+                    <canvas id="chartMetas"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Tendência Mensal</h5>
+                    <canvas id="chartTendencias"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Categoria B: Visualizações Avançadas -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Desempenho por Vendedor</h5>
+                    <canvas id="chartVendasVendedor" height="180"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Funil de Vendas por Categoria</h5>
+                    <canvas id="chartFunilCategoria" height="180"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card mb-4 p-3">
+        <div class="card-body">
+            <h5 class="card-title mb-3">Comparativo de Vendas por Mês</h5>
+
+            <div id="mesesComparativo" class="d-flex flex-wrap align-items-center mb-3">
+                <input type="month" class="mesInput me-2 mb-2" />
+                <button id="addMes" class="btn btn-sm btn-primary me-2 mb-2">+</button>
+                <button id="removeMes" class="btn btn-sm btn-danger mb-2">-</button>
+            </div>
+
+            <canvas id="chartComparativoMeses"></canvas>
+        </div>
+    </div>
 </div>
 {% endblock %}
 
@@ -118,4 +179,3 @@
     });
 </script>
 {% endblock %}
-

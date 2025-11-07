@@ -6,7 +6,7 @@ from werkzeug.utils import secure_filename
 from app import db
 from app.models import Upload
 from app.services.data_processor import DataProcessor
-from app.services.data_collector import DataCollector
+from app.tasks.cotacoes_task import atualizar_cotacoes_task
 
 api_bp = Blueprint('api', __name__)
 
@@ -62,18 +62,13 @@ def upload_file():
 
 @api_bp.route('/cotacoes/atualizar', methods=['POST'])
 def atualizar_cotacoes():
-    """Atualiza cotações de moedas via API externa."""
-    try:
-        collector = DataCollector()
-        num_cotacoes = collector.coletar_cotacoes()
-        
-        return jsonify({
-            'message': 'Cotações atualizadas',
-            'total': num_cotacoes
-        }), 200
-        
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+    """Dispara a task Celery para atualizar cotações."""
+    from app.tasks.cotacoes_task import atualizar_cotacoes_task  # import local
+    task = atualizar_cotacoes_task.delay()
+    return jsonify({
+        "message": "Tarefa de atualização iniciada",
+        "task_id": task.id
+    }), 202
 
 
 @api_bp.route('/uploads', methods=['GET'])

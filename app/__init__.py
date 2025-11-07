@@ -5,6 +5,9 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_caching import Cache
 
+# Inicializa o celery
+from app.celery_app import make_celery, celery as celery_global
+
 # Inicializa extensões
 db = SQLAlchemy()
 cache = Cache()
@@ -38,9 +41,16 @@ def create_app(config_name='default'):
     # Registra blueprints
     from app.blueprints.dashboard import dashboard_bp
     from app.blueprints.api import api_bp
+    from app.blueprints.relatorio import relatorio_bp
     
     app.register_blueprint(dashboard_bp)
     app.register_blueprint(api_bp, url_prefix='/api')
+    app.register_blueprint(relatorio_bp)
+
+    # Celery
+    celery = make_celery(app)
+    app.celery = celery
+    celery_global.conf.update(app.config)
     
     return app
 

@@ -80,3 +80,76 @@ def get_top_produtos():
     
     return jsonify(dados)
 
+
+
+"""CATEGORIA A"""
+@dashboard_bp.route('/data/margem-lucro')
+def get_margem_lucro():
+    """Retorna margem de lucro do período."""
+    data_inicio = request.args.get('data_inicio')
+    data_fim = request.args.get('data_fim')
+
+    analytics = Analytics()
+    dados = analytics.margem_lucro(data_inicio, data_fim)
+
+    return jsonify(dados)
+
+
+@dashboard_bp.route('/data/metas')
+def get_metas():
+    """Retorna comparativo de vendas com as metas."""
+    data_inicio = request.args.get('data_inicio')
+    data_fim = request.args.get('data_fim')
+
+    analytics = Analytics()
+    dados = analytics.comparar_metas(data_inicio, data_fim)
+
+    return jsonify(dados)
+
+
+@dashboard_bp.route('/data/tendencias')
+def get_tendencias():
+    """Retorna tendência de crescimento por mês."""
+    data_inicio = request.args.get('data_inicio')
+    data_fim = request.args.get('data_fim')
+
+    analytics = Analytics()
+    dados = analytics.tendencia_mensal(data_inicio, data_fim)
+
+    return jsonify(dados)
+
+
+"""CATEGORIA B"""
+@dashboard_bp.route('/data/vendas-vendedor')
+def get_vendas_vendedor():
+    """Retorna desempenho de vendedores por período."""
+    data_inicio = request.args.get('data_inicio')
+    data_fim = request.args.get('data_fim')
+
+    analytics = Analytics()
+    dados = analytics.vendas_por_vendedor(data_inicio, data_fim)
+
+    return jsonify(dados)
+
+
+@dashboard_bp.route('/data/funil-categoria')
+def get_funil_categoria():
+    """Retorna dados de vendas estilo funil."""
+    data_inicio = request.args.get('data_inicio')
+    data_fim = request.args.get('data_fim')
+
+    analytics = Analytics()
+    dados = analytics.funil_vendas_categoria(data_inicio, data_fim)
+
+    return jsonify(dados)
+
+
+@dashboard_bp.route('/data/vendas-meses', methods=['GET'])
+def get_vendas_meses():
+    """Retorna comparativo de vendas por meses selecionados."""
+    meses = request.args.get('meses', '').split(',')
+
+    analytics = Analytics()
+    dados = analytics.vendas_meses(meses)
+
+    return jsonify(dados)

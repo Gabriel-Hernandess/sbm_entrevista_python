@@ -1,0 +1,48 @@
+<!-- Sidebar (Desktop) -->
+<nav class="d-none d-lg-block text-white vh-100 position-fixed" style="width: 250px; background-color: #333333ff;">
+  <div class="p-3">
+    <h5 class="mb-4">📊 Dashboard Analítico</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white" href="/">Dashboard</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white" href="/relatorios">Relatório</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#" data-bs-toggle="modal" data-bs-target="#uploadModal">Upload</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Navbar (Mobile) -->
+<nav class="navbar navbar-dark bg-primary d-lg-none">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">📊</a>
+    <button class="btn btn-outline-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu">
+      ☰
+    </button>
+  </div>
+</nav>
+
+<!-- Offcanvas (Mobile Menu) -->
+<div class="offcanvas offcanvas-end bg-primary text-white" tabindex="-1" id="mobileMenu">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title">Menu</h5>
+    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+  </div>
+  <div class="offcanvas-body">
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <a class="nav-link text-white" href="/">Dashboard</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="/relatorios">Relatório</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" href="#" data-bs-toggle="modal" data-bs-target="#uploadModal">Upload</a>
+      </li>
+    </ul>
+  </div>
+</div>
